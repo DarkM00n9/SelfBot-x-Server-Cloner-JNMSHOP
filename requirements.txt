@@ -1,0 +1,11 @@
+requests
+pywin32
+discord-interactions
+pypresence
+discord.py==1.7.3
+rich
+asyncio
+colorama
+inquirer
+psutil
+requests
