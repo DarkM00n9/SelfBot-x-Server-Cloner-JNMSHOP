@@ -1,12 +1,8 @@
 discord.py
 asyncio
-random
-string
 colorama
 rich
 keyauth
 discord.py
 inquirer
 requests
-shutil
-zipfile
