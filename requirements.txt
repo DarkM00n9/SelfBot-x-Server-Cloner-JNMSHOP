@@ -6,3 +6,4 @@ keyauth
 discord.py
 inquirer
 requests
+discord-interactions
